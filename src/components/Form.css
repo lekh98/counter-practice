@@ -1,0 +1,21 @@
+.maincontainer{
+    min-height: 90vh;
+    background-color: crimson;
+    display: flex;
+    
+}
+.register-form{
+    margin: 100px auto;
+    border: 1px solid white;
+    display: flex;
+    
+}
+.form-one{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 10px;
+    margin-top: 40px;
+    border: 1px solid white;
+    margin-right: 180px;
+}
